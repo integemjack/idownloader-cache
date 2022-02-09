@@ -1,0 +1,1 @@
+https://uploads.github.com/repos/integemjack/iDownloader/releases/59086809/assets{?name,label}
